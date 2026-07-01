@@ -1,0 +1,6 @@
+{
+  "name": "Jelvans Online Clothing",
+  "description": "High-fidelity custom apparel print store and premium clothing configurator, in the vibrant design and rich features of Printexpert.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
